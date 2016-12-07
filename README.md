@@ -23,5 +23,5 @@ The basic idea here is to write a program to determine the shortest & valid  com
 
 * I have provided comments wherever possible for a better understanding of the code.
 
-* The application was developed on MAC OS X Sierra using Sublime Text 3 & Google Chrome.
+* The application was developed on  macOS Sierra using Sublime Text 3 & Google Chrome.
 
