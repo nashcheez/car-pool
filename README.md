@@ -3,7 +3,7 @@ A simple web app pertaining to Car pooling.
 This application has been developed using HTML, pure JavaScript and CSS. No jQuery has been used.
 This app addresses some of the common edge cases of car pooling selection and whether the pick-ups and drops of passengers can be done within the provided time.
 
-Attaching screenshot:
+**Attaching screenshot:**
 
 ![carPool screenshot](https://cloud.githubusercontent.com/assets/2913308/20967484/bbdc7340-bca5-11e6-9fed-687346a6e89b.png)
 
