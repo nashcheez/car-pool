@@ -14,11 +14,11 @@ function initMap() {
         endTime: new Date(new Date().getTime() + (60000 * 30))
     }, {
         origin: {
-            lat: 12.9630167, // domlur
+            lat: 12.9630167, // Domlur
             lng: 77.6268656
         },
         destination: {
-            lat: 12.9730247, // mg road
+            lat: 12.9730247, // MG Road
             lng: 77.6144708
         },
         startTime: new Date(new Date().getTime() + (60000 * 23)),
